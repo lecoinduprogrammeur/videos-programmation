@@ -1,6 +1,6 @@
 # videos-programmation
 
-## 1ere vidéo
+## [1ère vidéo](./1ere_video.ipynb)
 
 ## 2ème vidéo
 
