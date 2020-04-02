@@ -1,4 +1,4 @@
-# videos de programmation PYTHON Fabrice DUMONT
+# videos de programmation PYTHON de Fabrice DUMONT
 ## notebooks Jupyter des codes créés et expliqués dans les vidéos tutoriels
 
 ### [1ère vidéo](./1ere_video.ipynb)
